@@ -1,4 +1,4 @@
-Simple_Registration_Form
+<h1><b>Simple_Registration_Form></b></h1>
 A simple registraion form made using basic HTML and CSS which uses PHP in backend. Form takes basic user info as input and stores it on a database in PHP.<br/>
 The website runs on a local server created using Xampp.<br/>
 Screenshots:<br/>
